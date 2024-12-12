@@ -1,0 +1,115 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "E:/WVNCC/Love2D/ap-platformer/assets",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/blocks_16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/blocks_thin.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/bubs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/chichi.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/coin.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/diver_fish.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/health_kit.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/heart.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/jumpy_nero_gloppy.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/presents.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/round_dudes.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/winter_entities.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/winter_terrain.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "winter_level_0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 348.66666666666663,
+                "y": 299.99999999999994
+            }
+        },
+        "winter_level_0.tmx#blocks_16x16": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#blocks_thin": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#bubs": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#chichi": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#diver_fish": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#health_kit": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#heart": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#jumpy_nero_gloppy": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#presents": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#round_dudes": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#winter_entities": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#winter_terrain": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "E:/WVNCC/Love2D/ap-platformer/assets/maps",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "Snowy_Mountains_0.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "winter_level_0.tmx",
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/winter_terrain.tsx",
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/bubs.tsx",
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/coin.tsx"
+    ]
+}

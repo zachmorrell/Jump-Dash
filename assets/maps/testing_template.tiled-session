@@ -1,0 +1,106 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/blocks_16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/blocks_thin.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/bubs.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/chichi.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/coin.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/diver_fish.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/health_kit.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/heart.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/jumpy_nero_gloppy.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/presents.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/WVNCC/Love2D/ap-platformer/assets/tilesets/round_dudes.tsx": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx": {
+            "scale": 0.447390625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1601.5087486466668,
+                "y": 241.3997834666294
+            }
+        },
+        "winter_level_0.tmx#blocks_16x16": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#blocks_thin": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#bubs": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#chichi": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#coin": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#diver_fish": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#health_kit": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#heart": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#jumpy_nero_gloppy": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#presents": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#round_dudes": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#winter_entities": {
+            "scaleInDock": 1
+        },
+        "winter_level_0.tmx#winter_terrain": {
+            "scaleInDock": 1
+        },
+        "winter_template.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3.8333333333333144,
+                "y": 362.3333333333333
+            }
+        }
+    },
+    "last.exportedFilePath": "E:/WVNCC/Love2D/ap-platformer/assets/maps",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+    ],
+    "project": "testing_template.tiled-project",
+    "recentFiles": [
+        "winter_level_0.tmx",
+        "winter_template.tmx"
+    ]
+}
